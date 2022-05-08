@@ -12,32 +12,55 @@ You can find the subject of this project [here.](https://github.com/Olbrien/42Li
 
 ## Answers:
 
-<details open>
+<details>
 <summary>Level 1:</summary>
 <img src=/extras/images/Level1.png>
 </details>
 
+<details>
+<summary>Level 2:</summary>
+<img src=/extras/images/Level2.png>
+</details>
 
-Level 2:
+<details>
+<summary>Level 3:</summary>
+<img src=/extras/images/Level3.png>
+</details>
 
-![](/extras/images/Level2.png)
+<details>
+<summary>Level 4:</summary>
+<img src=/extras/images/Level4.png>
+</details>
 
-Level 3:
+<details>
+<summary>Level 5:</summary>
+<img src=/extras/images/Level5.png>
+</details>
 
-	![](/extras/images/Level3.png)
+<details>
+<summary>Level 6:</summary>
+<img src=/extras/images/Level6.png>
+</details>
 
-Level 4:
+<details>
+<summary>Level 7:</summary>
+<img src=/extras/images/Level7.png>
+</details>
 
-	![](/extras/images/Level4.png)
+<details>
+<summary>Level 8:</summary>
+<img src=/extras/images/Level8.png>
+</details>
 
+<details>
+<summary>Level 9:</summary>
+<img src=/extras/images/Level9.png>
+</details>
 
-Level 5:
-
-	![](/extras/images/Level5.png)
-
-Level 6:
-
-
+<details>
+<summary>Level 10:</summary>
+<img src=/extras/images/Level10.png>
+</details>
 
 
 
