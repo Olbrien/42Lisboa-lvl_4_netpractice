@@ -10,6 +10,15 @@
 
 You can find the subject of this project [here.](https://github.com/Olbrien/42Lisboa-lvl_4_netpractice/blob/main/extras/lvl_4_netpractice.pdf)
 
+![](/extras/images/Level10.png)
+
+## How to run:
+
+First download the repository.
+
+On the folder /extras/net_practice, grab the index.html and drop it on your browser.\
+There just insert your name, follow the instructions and click start.
+
 ## Answers:
 
 <details>
@@ -470,12 +479,14 @@ What is the difference between a switch and a router?
 	In practice, what this means is that routers are necessary for an Internet connection,
 	while switches are only used for interconnecting devices. Homes and small offices need
 	routers for Internet access, but most do not need a network switch, unless they require
-	a large amount of Ethernet ports. However, large offices, networks, and data centers with dozens or hundreds of computers usually do require switches.
+	a large amount of Ethernet ports. However, large offices, networks, and data centers with
+	dozens or hundreds of computers usually do require switches.
 
 
 Routing Table:
 
-	A routing table is a data table stored in a router or a network host that lists the routes to particular network destinations.
+	A routing table is a data table stored in a router or a network host that lists the routes
+	to particular network destinations.
 
 		Destination: The destination specifies a network address on which a host is the end
 		target of the packets. The route of default or 0.0.0.0/0, is the route that takes effect
@@ -486,9 +497,5 @@ Routing Table:
 		Next hop: The next hop refers to the next closest router a packet can go through. It
 		is the IP address of the next router on the packet's way. Every single router maintains
 		its routing table with a next hop address.
-
-
----------------------------------------------------------------------------------------------
-
 
 </code>
